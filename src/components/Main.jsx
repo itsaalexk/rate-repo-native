@@ -23,5 +23,6 @@ const styles = StyleSheet.create({
     fontFamily: "consolas",
     fontWeight: "bold",
     fontSize: 30,
+    marginLeft: 150,
   },
 });
